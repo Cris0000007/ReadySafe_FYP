@@ -102,13 +102,20 @@ Project Structure
 A simplified version of the project structure is shown below:
 
 ReadySafe_FYP/
-├── App.js
-├── package.json
 ├── README.md
-└── assets/
-    └── sounds/
-        ├── alert.mp3
-        └── success.mp3
+└── fyp_readysafe/
+    ├── App.js
+    ├── app.json
+    ├── index.js
+    ├── package.json
+    └── assets/
+        ├── adaptive-icon.png
+        ├── favicon.png
+        ├── icon.png
+        ├── splash-icon.png
+        └── sounds/
+            ├── alert.mp3
+            └── success.mp3
 Notes
 
 This is a prototype project and does not provide live official emergency alerts.
