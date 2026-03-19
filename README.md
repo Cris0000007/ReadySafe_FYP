@@ -116,6 +116,18 @@ ReadySafe_FYP/
         └── sounds/
             ├── alert.mp3
             └── success.mp3
+
+## Source Code Location
+
+The main application source code is located in the `fyp_readysafe/` folder.
+
+Key files include:
+
+- `fyp_readysafe/App.js`
+- `fyp_readysafe/package.json`
+- `fyp_readysafe/index.js`
+- `fyp_readysafe/assets/`
+
 Notes
 
 This is a prototype project and does not provide live official emergency alerts.
