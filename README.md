@@ -61,14 +61,15 @@ The app was designed around the following goals:
 
 A warm visual design was used in the final version to make the app feel calmer and more supportive for users, rather than overly technical or stressful.
 
-##Module Information
+## Module Information
 
-#CM3070 Computer Science Final Project
+**CM3070 Computer Science Final Project**
 
-#Project template used:
-#CM3050 Mobile Development, Project Idea 1: Developing a Mobile App for Local Disaster Preparedness and Response
+**Project template used:**  
+**CM3050 Mobile Development, Project Idea 1: Developing a Mobile App for Local Disaster Preparedness and Response**
 
-##Author
+## Author
+
 Cho Hoey Ning
 
 ## Installation
@@ -117,17 +118,3 @@ Alert content in the app is simulated for demonstration and evaluation purposes.
 Emergency profile data is stored locally on the device.
 
 Audio files are included as local assets for alert and success feedback.
-
-Future Improvements
-
-Possible future improvements include:
-
-live weather or disaster alert API integration
-
-more quiz questions and personalised recommendations
-
-expanded local resource support
-
-multilingual support
-
-broader usability testing
