@@ -61,6 +61,16 @@ The app was designed around the following goals:
 
 A warm visual design was used in the final version to make the app feel calmer and more supportive for users, rather than overly technical or stressful.
 
+##Module Information
+
+#CM3070 Computer Science Final Project
+
+#Project template used:
+#CM3050 Mobile Development, Project Idea 1: Developing a Mobile App for Local Disaster Preparedness and Response
+
+##Author
+Cho Hoey Ning
+
 ## Installation
 
 Clone the repository:
@@ -121,14 +131,3 @@ expanded local resource support
 multilingual support
 
 broader usability testing
-
-
-##Module Information
-
-#CM3070 Computer Science Final Project
-
-#Project template used:
-#CM3050 Mobile Development, Project Idea 1: Developing a Mobile App for Local Disaster Preparedness and Response
-
-##Author
-Cho Hoey Ning
