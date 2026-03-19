@@ -117,7 +117,7 @@ ReadySafe_FYP/
             ├── alert.mp3
             └── success.mp3
 
-## Source Code Location
+Source Code Location
 
 The main application source code is located in the `fyp_readysafe/` folder.
 
