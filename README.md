@@ -122,13 +122,13 @@ multilingual support
 
 broader usability testing
 
-Module Information
 
-CM3070 Computer Science Final Project
+##Module Information
 
-Project template used:
-CM3050 Mobile Development, Project Idea 1: Developing a Mobile App for Local Disaster Preparedness and Response
+#CM3070 Computer Science Final Project
 
-Author
+#Project template used:
+#CM3050 Mobile Development, Project Idea 1: Developing a Mobile App for Local Disaster Preparedness and Response
 
+##Author
 Cho Hoey Ning
